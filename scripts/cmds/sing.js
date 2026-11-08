@@ -121,7 +121,7 @@ module.exports = {
       api.setMessageReaction("❌", messageID, () => {}, true);
 
       return api.sendMessage(
-        "❌সমস্যা হয়েছে 🚨বস সিয়াম এর ইনবক্সে নক দাও🌚 https://www.facebook.com/profile.php?id=100037154624637",
+        "❌সমস্যা হয়েছে 🚨 abar try korun",
         threadID,
         messageID
       );
