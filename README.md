@@ -1,11 +1,4 @@
 <!-- 🔥 NEON BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/C5LX7BN.gif" width="100%">
-</p>
-
-<!-- 🔥 TITLE -->
-<h1 align="center">
-  <img src="./dashboard/images/logo-non-bg.png" width="28px">
   𝗦𝗜𝗙𝗔𝗧 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧
 </h1>
 
